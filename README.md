@@ -1,0 +1,2 @@
+# decoupled-srv
+Decoupled Server
