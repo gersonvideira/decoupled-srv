@@ -20,6 +20,7 @@
             "error",
             "tab"
         ],
+        "@typescript-eslint/no-explicit-any": "off",
         "linebreak-style": [
             "error",
             "unix"
